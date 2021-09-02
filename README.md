@@ -1,5 +1,5 @@
 # readme
-profil denemesi
+
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=yasmindo&show_icons=true">
 
 # Merhaba, ben Yasmin Yağmur Karslı! 
